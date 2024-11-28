@@ -4,7 +4,7 @@
 
 <p align="center" width="150px"> I have just kickstarted my career as a software developer intern after completing my undergraduation in the year 2021. <br>Soon, I would be joining New York University for Masters' of Computer Science program.</p>
 
-<h1 align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">About me </h1>
+<h1 align="center">About me </h1>
 
 ### 🛠 &nbsp;Tech Stack
 
