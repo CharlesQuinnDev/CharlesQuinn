@@ -6,7 +6,7 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-### Lenguajes de Programación
+### Programming Languages
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php&logoColor=777BB4)&nbsp;
@@ -19,7 +19,7 @@
 ![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnubash&logoColor=lightgrey)&nbsp;
 ![PowerShell](https://img.shields.io/badge/-PowerShell-05122A?style=flat&logo=powershell&logoColor=0078D7)&nbsp;
 
-### Herramientas de Pentesting
+### Pentesting Tools
 ![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-05122A?style=flat&logo=burp-suite&logoColor=FF8800)&nbsp;
 ![Nmap](https://img.shields.io/badge/-Nmap-05122A?style=flat&logo=nmap&logoColor=4682B4)&nbsp;
 ![Metasploit](https://img.shields.io/badge/-Metasploit-05122A?style=flat&logo=metasploit&logoColor=2368D9)&nbsp;
@@ -39,7 +39,7 @@
 ![Impacket](https://img.shields.io/badge/-Impacket-05122A?style=flat&logo=python&logoColor=FFD43B)&nbsp;
 ![Zap](https://img.shields.io/badge/-OWASP%20ZAP-05122A?style=flat&logo=owasp&logoColor=orange)&nbsp;
 
-### Sistemas Operativos y Virtualización
+### Operating Systems and Virtualization
 ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-05122A?style=flat&logo=kalilinux&logoColor=557C94)&nbsp;
 ![Parrot OS](https://img.shields.io/badge/-Parrot%20OS-05122A?style=flat&logo=linux&logoColor=cyan)&nbsp;
 ![BlackArch Linux](https://img.shields.io/badge/-BlackArch%20Linux-05122A?style=flat&logo=linux&logoColor=darkred)&nbsp;
@@ -47,18 +47,18 @@
 ![VMware](https://img.shields.io/badge/-VMware-05122A?style=flat&logo=vmware&logoColor=607078)&nbsp;
 ![VirtualBox](https://img.shields.io/badge/-VirtualBox-05122A?style=flat&logo=virtualbox&logoColor=183A61)&nbsp;
 
-### Bases de Datos
+### Databases
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=336791)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb&logoColor=47A248)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite&logoColor=003B57)&nbsp;
 
-### Cloud y DevOps
+### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws&logoColor=FF9900)&nbsp;
 ![Azure](https://img.shields.io/badge/-Azure-05122A?style=flat&logo=microsoft-azure&logoColor=0078D7)&nbsp;
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-05122A?style=flat&logo=google-cloud&logoColor=4285F4)&nbsp;
 
-### Ingeniería Reversa y Análisis
+### Reverse Engineering and Analysis
 ![IDA Pro](https://img.shields.io/badge/-IDA%20Pro-05122A?style=flat&logo=ida&logoColor=yellow)&nbsp;
 ![Ghidra](https://img.shields.io/badge/-Ghidra-05122A?style=flat&logo=ghidra&logoColor=FF9900)&nbsp;
 ![Radare2](https://img.shields.io/badge/-Radare2-05122A?style=flat&logo=radar&logoColor=red)&nbsp;
